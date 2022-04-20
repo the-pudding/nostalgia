@@ -32,3 +32,11 @@
   --color-highlight: var(--color-yellow);
 	
 }
+
+#content {
+	height: 100vh;
+}
+
+.swiper {
+	height: 100%;
+}
